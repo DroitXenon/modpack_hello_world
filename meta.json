@@ -12,6 +12,15 @@
                 "generic": "https://example.com/"
             }
         }
+       "id": "1.0.1",
+        "releasedAt": 209384093821,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
+            }
+        }
     }
   ]
 }
